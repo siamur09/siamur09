@@ -56,8 +56,8 @@ I also enjoy **competitive programming and problem solving**, mainly using **C++
 
 <p align="center">
 
-<a href="https://github.com/simaur09" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+<a href="SIAMUR RAHMAN NILOY — Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-FF5722?logo=googledocs&logoColor=white" alt="Resume"/>
 </a>
 
 <a href="https://www.linkedin.com/in/siamur-rahhman-/" target="_blank">
